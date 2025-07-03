@@ -1,11 +1,6 @@
-<h1 align="center" style="
-  background: linear-gradient(90deg, #9D00FF, #00E5FF);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 3em;
-  font-weight: bold;">
-  ⚡ ThunderZ Hub
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=⚡+Welcome+to+ThunderZ+Hub;Roblox+Automation+%7C+Boss+Raider+%7C+GUI+Maker;Scripted+with+Style+%26+Speed!" />
+</p>
 
 <p align="center">
   <b>Roblox Automation Scripts | Boss Raiding | Auto Farming | Game Enhancers</b>  
