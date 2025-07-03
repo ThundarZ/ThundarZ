@@ -38,15 +38,6 @@ We specialize in:
 
 ---
 
-## 📫 Contact & Links
-
-- 💬 Discord: [ThunderZ](discord.gg/HhPm7gf24R)
-- 📺 Youtube : [ThunderZ Hub](https://www.youtube.com/@ThunderzHUB)
-- 🌐 Website (soon): [thunderzhub.xyz](https://thunderzhub.xyz)  
-- 📦 Explore More: [github.com/ThundarZ](https://github.com/ThundarZ)
-
----
-
 <p align="center" style="font-size: 0.9em;">
-  Made with ❤️ by <strong>ThundarZ</strong> | Powered by Lua and Lightning ⚡
+   <strong>ThundarZ</strong> | Powered by Lua and Lightning ⚡
 </p>
